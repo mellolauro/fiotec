@@ -1,6 +1,6 @@
 # fiotec
 
-Este repositório destina-se a avaliação.
+Este repositório destina-se a avaliação para fins da Fiotec.
 
 Projeto desenvolvido em python.
 main.py
