@@ -3,6 +3,7 @@
 Este repositório destina-se a avaliação para fins da Fiotec.
 
 --> Projeto desenvolvido em python
+
 .  main.py
 > Primeiro programa:
 Criação de um programa executável por linha de comando que leia todos os arquivos de texto de
