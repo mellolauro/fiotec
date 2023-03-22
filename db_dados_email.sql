@@ -1,6 +1,6 @@
-create schema msg_email;
-
 CREATE DATABASE msg_email;
+
+create schema msg_email;
 
 use msg_email;
 
